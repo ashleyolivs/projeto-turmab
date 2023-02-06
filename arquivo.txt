@@ -1,1 +1,3 @@
 primeiros comandos no git bash
+
+mais alguns comandos de git
